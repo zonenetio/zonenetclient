@@ -10,7 +10,7 @@ This is ZoneNet Client, more https://zonenet.io
 
 - I am thinking...
 
-Download from [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases), [Windows](https://github.com/zonenetio/zonenetclient/releases), [Android](https://zonenet.io/download), [iOS](https://zonenet.io/download), 
+Download from [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases), [Windows](https://github.com/zonenetio/zonenetclient/releases), [Android](https://zonenet.io/download), [iOS](https://zonenet.io/download)
 
 ## CLI Client
 
