@@ -1,5 +1,7 @@
 # ZoneNet Client
 
+[中文](README_ZH.md)
+
 Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere
 
 This is ZoneNet Client, more https://zonenet.io
