@@ -1,5 +1,7 @@
 # ZoneNet 客户端
 
+[English](README.md)
+
 全球局域网络. 对任何地点, 任何设备, 建立点对点和端到端加密的局域网
 
 这是 ZoneNet Client, 更多信息 https://zonenet.io
