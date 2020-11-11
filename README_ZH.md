@@ -14,13 +14,13 @@
 
 ## 命令行客户端
 
-### 通过[nami](https://github.com/txthinking/nami)安装
+### 通过 [nami](https://github.com/txthinking/nami) 安装
 
 ```
 $ nami install github.com/zonenetio/zonenetclient
 ```
 
-或直接下载二进制文件[releases](https://github.com/zonenetio/zonenetclient/releases)
+或直接下载二进制文件 [releases](https://github.com/zonenetio/zonenetclient/releases)
 
 ### 使用
 
