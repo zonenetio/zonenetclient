@@ -10,7 +10,7 @@
 
 ## 图形客户端
 
-下载 [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases/download/v20201111/ZoneNet.dmg), [Windows](https://github.com/zonenetio/zonenetclient/releases/download/v20201111/ZoneNet.exe), [Android](https://zonenet.io/download), [iOS](https://zonenet.io/download)
+下载 [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.dmg), [Windows](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.msi), [Android](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.apk), [iOS](https://zonenet.io/download)
 
 ## 命令行客户端
 
