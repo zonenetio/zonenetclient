@@ -10,7 +10,7 @@ This is ZoneNet Client, more https://zonenet.io
 
 ## GUI Client
 
-Download from [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases/download/v20201111/ZoneNet.dmg), [Windows](https://github.com/zonenetio/zonenetclient/releases/download/v20201111/ZoneNet.exe), [Android](https://zonenet.io/download), [iOS](https://zonenet.io/download)
+Download from [releases](https://github.com/zonenetio/zonenetclient/releases): [macOS](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.dmg), [Windows](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.msi), [Android](https://github.com/zonenetio/zonenetclient/releases/download/v20210214/ZoneNet.apk), [iOS](https://zonenet.io/download)
 
 ## CLI Client
 
